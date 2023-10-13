@@ -1,3 +1,7 @@
+![light](/profile/light.jpg)
+![dark](/profile/dark.jpg)
+![viz](/profile/viz.jpg)
+
 See also:
 
 - [felt/tippecanoe](http://github.com/felt/tippecanoe)
