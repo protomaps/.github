@@ -1,6 +1,4 @@
-![light](/profile/light.jpg)
-![dark](/profile/dark.jpg)
-![viz](/profile/viz.jpg)
+<img src="/profile/light.jpg" width=33%><img src="/profile/dark.jpg" width=33%><img src="/profile/viz.jpg" width=33%>
 
 See also:
 
