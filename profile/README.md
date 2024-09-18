@@ -4,8 +4,8 @@ An interactive, customizable and open source map of the world, delivered as a si
 
 <img src="https://github.com/protomaps/.github/raw/main/profile/light.jpg" width=33%><img src="https://github.com/protomaps/.github/raw/main/profile/dark.jpg" width=33%><img src="https://github.com/protomaps/.github/raw/main/profile/viz.jpg" width=33%>
 
-* [PMTiles](https://github.com/protomaps/PMTiles) specification and reference implementations in JS, C++, and Python
-* [pmtiles](https://github.com/protomaps/go-pmtiles) CLI
+* [PMTiles](https://github.com/protomaps/PMTiles) specification and reference implementations for JS, C++, Python, MapLibre, Leaflet, OpenLayers, AWS, Cloudflare
+* [pmtiles](https://github.com/protomaps/go-pmtiles) CLI, Dockerized server
 * [OpenStreetMap basemap](https://github.com/protomaps/basemaps) tileset and styles
 * [Technical Documentation](https://github.com/protomaps/docs)
 
